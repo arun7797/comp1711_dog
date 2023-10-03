@@ -1,2 +1,2 @@
-# comp1711_rabbit
+# comp1711_dog
 Code for Procedural Programming
